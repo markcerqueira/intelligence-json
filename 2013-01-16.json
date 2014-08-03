@@ -1,0 +1,33 @@
+{
+    "url": "http://intelligencesquaredus.org/debates/past-debates/item/793-israel-can-live-with-a-nuclear-iran",
+    "date": "2013-01-16",
+    "day": "Wednesday",
+    "topic": "Israel Can Live With a Nuclear Iran",
+    "moderator": "John Donvan",
+    "pre-debate": {
+        "for": 25,
+        "against": 35,
+        "undecided": 40
+    },
+    "post-debate": {
+        "for": 37,
+        "against": 55,
+        "undecided": 8
+    },
+    "winner": "against",
+    "unchanged-vote": 52,
+    "unchanged": {
+        "for": 16,
+        "against": 30,
+        "undecided": 6
+    },
+    "changed-vote": 48,
+    "changed": {
+        "for-to-against": 8,
+        "for-to-undecided": 1,
+        "against-to-for": 4,
+        "against-to-undecided": 1,
+        "undecided-to-for": 17,
+        "undecided-to-against": 17
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "url": "http://intelligencesquaredus.org/debates/past-debates/item/802-the-fdas-caution-is-hazardous-to-our-health",
+    "date": "2013-05-08",
+    "day": "Wednesday",
+    "topic": "The FDA'S Caution Is Hazardous To Our Health",
+    "moderator": "John Donvan",
+    "pre-debate": {
+        "for": 24,
+        "against": 32,
+        "undecided": 44
+    },
+    "post-debate": {
+        "for": 53,
+        "against": 38,
+        "undecided": 9
+    },
+    "winner": "for",
+    "unchanged-vote": 43,
+    "unchanged": {
+        "for": 19,
+        "against": 18,
+        "undecided": 6
+    },
+    "changed-vote": 57,
+    "changed": {
+        "for-to-against": 2,
+        "for-to-undecided": 2,
+        "against-to-for": 12,
+        "against-to-undecided": 2,
+        "undecided-to-for": 22,
+        "undecided-to-against": 17
+    }
+}

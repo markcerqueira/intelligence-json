@@ -1,0 +1,33 @@
+{
+    "url": "http://intelligencesquaredus.org/debates/past-debates/item/853-abolish-the-minimum-wage",
+    "date": "2013-04-03",
+    "day": "Wednesday",
+    "topic": "Abolish The Minimum Wage",
+    "moderator": "John Donvan",
+    "pre-debate": {
+        "for": 21,
+        "against": 58,
+        "undecided": 21
+    },
+    "post-debate": {
+        "for": 26,
+        "against": 67,
+        "undecided": 7
+    },
+    "winner": "against",
+    "unchanged-vote": 75,
+    "unchanged": {
+        "for": 17,
+        "against": 53,
+        "undecided": 5
+    },
+    "changed-vote": 25,
+    "changed": {
+        "for-to-against": 3,
+        "for-to-undecided": 0,
+        "against-to-for": 4,
+        "against-to-undecided": 2,
+        "undecided-to-for": 5,
+        "undecided-to-against": 11
+    }
+}

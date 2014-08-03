@@ -1,0 +1,33 @@
+{
+    "url": "http://intelligencesquaredus.org/debates/past-debates/item/775-the-rich-are-taxed-enough",
+    "date": "2012-10-24",
+    "day": "Wednesday",
+    "topic": "The Rich Are Taxed Enough",
+    "moderator": "John Donvan",
+    "pre-debate": {
+        "for": 28,
+        "against": 49,
+        "undecided": 23
+    },
+    "post-debate": {
+        "for": 30,
+        "against": 63,
+        "undecided": 7
+    },
+    "winner": "against",
+    "unchanged-vote": 64,
+    "unchanged": {
+        "for": 19,
+        "against": 42,
+        "undecided": 4
+    },
+    "changed-vote": 36,
+    "changed": {
+        "for-to-against": 7,
+        "for-to-undecided": 2,
+        "against-to-for": 5,
+        "against-to-undecided": 2,
+        "undecided-to-for": 7,
+        "undecided-to-against": 14
+    }
+}

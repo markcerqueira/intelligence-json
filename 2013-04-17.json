@@ -1,0 +1,33 @@
+{
+    "url": "http://intelligencesquaredus.org/debates/past-debates/item/801-the-gop-must-seize-the-center-or-die",
+    "date": "2013-04-17",
+    "day": "Wednesday",
+    "topic": "The GOP Must Seize The Center Or Die",
+    "moderator": "John Donvan",
+    "pre-debate": {
+        "for": 65,
+        "against": 14,
+        "undecided": 21
+    },
+    "post-debate": {
+        "for": 65,
+        "against": 28,
+        "undecided": 7
+    },
+    "winner": "against",
+    "unchanged-vote": 56,
+    "unchanged": {
+        "for": 45,
+        "against": 8,
+        "undecided": 3
+    },
+    "changed-vote": 44,
+    "changed": {
+        "for-to-against": 14,
+        "for-to-undecided": 4,
+        "against-to-for": 6,
+        "against-to-undecided": 0,
+        "undecided-to-for": 14,
+        "undecided-to-against": 6
+    }
+}

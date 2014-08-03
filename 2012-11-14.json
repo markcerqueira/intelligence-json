@@ -1,0 +1,33 @@
+{
+    "url": "http://intelligencesquaredus.org/debates/past-debates/item/789-legalize-drugs",
+    "date": "2012-11-14",
+    "day": "Wednesday",
+    "topic": "Legalize Drugs",
+    "moderator": "John Donvan",
+    "pre-debate": {
+        "for": 45,
+        "against": 23,
+        "undecided": 32
+    },
+    "post-debate": {
+        "for": 58,
+        "against": 30,
+        "undecided": 12
+    },
+    "winner": "for",
+    "unchanged-vote": 56,
+    "unchanged": {
+        "for": 35,
+        "against": 14,
+        "undecided": 7
+    },
+    "changed-vote": 44,
+    "changed": {
+        "for-to-against": 6,
+        "for-to-undecided": 4,
+        "against-to-for": 6,
+        "against-to-undecided": 2,
+        "undecided-to-for": 16,
+        "undecided-to-against": 10
+    }
+}

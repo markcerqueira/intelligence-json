@@ -1,0 +1,33 @@
+{
+    "url": "http://intelligencesquaredus.org/debates/past-debates/item/800-america-doesnt-need-a-strong-dollar",
+    "date": "2013-03-13",
+    "day": "Wednesday",
+    "topic": "America Doesn't Need A Strong Dollar Policy",
+    "moderator": "John Donvan",
+    "pre-debate": {
+        "for": 24,
+        "against": 29,
+        "undecided": 47
+    },
+    "post-debate": {
+        "for": 54,
+        "against": 37,
+        "undecided": 9
+    },
+    "winner": "for",
+    "unchanged-vote": 44,
+    "unchanged": {
+        "for": 17,
+        "against": 19,
+        "undecided": 8
+    },
+    "changed-vote": 56,
+    "changed": {
+        "for-to-against": 6,
+        "for-to-undecided": 0,
+        "against-to-for": 10,
+        "against-to-undecided": 2,
+        "undecided-to-for": 26,
+        "undecided-to-against": 12
+    }
+}

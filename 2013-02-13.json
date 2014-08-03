@@ -1,0 +1,33 @@
+{
+    "url": "http://intelligencesquaredus.org/debates/past-debates/item/798-prohibit-genetically-engineered-babies",
+    "date": "2013-02-13",
+    "day": "Wednesday",
+    "topic": "Prohibit Genetically Engineered Babies",
+    "moderator": "John Donvan",
+    "pre-debate": {
+        "for": 24,
+        "against": 30,
+        "undecided": 46
+    },
+    "post-debate": {
+        "for": 41,
+        "against": 49,
+        "undecided": 10
+    },
+    "winner": "against",
+    "unchanged-vote": 42,
+    "unchanged": {
+        "for": 18,
+        "against": 20,
+        "undecided": 4
+    },
+    "changed-vote": 58,
+    "changed": {
+        "for-to-against": 4.5,
+        "for-to-undecided": 4,
+        "against-to-for": 4.5,
+        "against-to-undecided": 3,
+        "undecided-to-for": 19,
+        "undecided-to-against": 23
+    }
+}
