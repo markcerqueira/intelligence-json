@@ -4,12 +4,30 @@
     "day": "Wednesday",
     "topic": "Death Is Not Final",
     "moderator": "John Donvan",
-    "pre-for": 37,
-    "pre-against": 31,
-    "pre-undecided": 32,
-    "post-for": 42,
-    "post-against": 46,
-    "post-undecided": 12,
+    "pre-debate": {
+        "for": 37,
+        "against": 31,
+        "undecided": 32
+    },
+    "post-debate": {
+        "for": 42,
+        "against": 46,
+        "undecided": 12
+    },
     "winner": "against",
-    "unchanged-vote": -100
+    "unchanged-vote": -100,
+    "unchanged": {
+        "for": -100,
+        "against": -100,
+        "undecided": -100
+    },
+    "changed-vote": -100,
+    "changed": {
+        "for-to-against": -100,
+        "for-to-undecided": -100,
+        "against-to-for": -100,
+        "against-to-undecided": -100,
+        "undecided-to-for": -100,
+        "undecided-to-against": -100
+    }
 }

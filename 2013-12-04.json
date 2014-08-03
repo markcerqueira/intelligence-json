@@ -4,12 +4,30 @@
     "day": "Wednesday",
     "topic": "Don't Eat Anything With A Face",
     "moderator": "John Donvan",
-    "pre-for": 24,
-    "pre-against": 51,
-    "pre-undecided": 25,
-    "post-for": 45,
-    "post-against": 43,
-    "post-undecided": 12,
+    "pre-debate": {
+        "for": 24,
+        "against": 51,
+        "undecided": 25
+    },
+    "post-debate": {
+        "for": 45,
+        "against": 43,
+        "undecided": 12
+    },
     "winner": "for",
-    "unchanged-vote": 59
+    "unchanged-vote": 59,
+    "unchanged": {
+        "for": 19,
+        "against": 36,
+        "undecided": 5
+    },
+    "changed-vote": 41,
+    "changed": {
+        "for-to-against": 2,
+        "for-to-undecided": 3,
+        "against-to-for": 12,
+        "against-to-undecided": 4,
+        "undecided-to-for": 15,
+        "undecided-to-against": 5
+    }
 }

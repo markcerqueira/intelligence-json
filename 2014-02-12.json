@@ -4,12 +4,30 @@
     "day": "Wednesday",
     "topic": "Snowden Was Justified",
     "moderator": "John Donvan",
-    "pre-for": 29,
-    "pre-against": 29,
-    "pre-undecided": 42,
-    "post-for": 54,
-    "post-against": 35,
-    "post-undecided": 11,
+    "pre-debate": {
+        "for": 29,
+        "against": 29,
+        "undecided": 42
+    },
+    "post-debate": {
+        "for": 54,
+        "against": 35,
+        "undecided": 11
+    },
     "winner": "for",
-    "unchanged-vote": 53
+    "unchanged-vote": 53,
+    "unchanged": {
+        "for": 24,
+        "against": 21,
+        "undecided": 8
+    },
+    "changed-vote": 47,
+    "changed": {
+        "for-to-against": 4,
+        "for-to-undecided": 2,
+        "against-to-for": 6,
+        "against-to-undecided": 2,
+        "undecided-to-for": 25,
+        "undecided-to-against": 9
+    }
 }

@@ -4,12 +4,30 @@
     "day": "Wednesday",
     "topic": "Break Up The Big Banks",
     "moderator": "John Donvan",
-    "pre-for": 37,
-    "pre-against": 19,
-    "pre-undecided": 44,
-    "post-for": 49,
-    "post-against": 39,
-    "post-undecided": 12,
+    "pre-debate": {
+        "for": 37,
+        "against": 19,
+        "undecided": 44
+    },
+    "post-debate": {
+        "for": 49,
+        "against": 39,
+        "undecided": 12
+    },
     "winner": "against",
-    "unchanged-vote": 49
+    "unchanged-vote": 49,
+    "unchanged": {
+        "for": 25,
+        "against": 16,
+        "undecided": 8
+    },
+    "changed-vote": 51,
+    "changed": {
+        "for-to-against": 5,
+        "for-to-undecided": 5,
+        "against-to-for": 3,
+        "against-to-undecided": 0,
+        "undecided-to-for": 20,
+        "undecided-to-against": 18
+    }
 }

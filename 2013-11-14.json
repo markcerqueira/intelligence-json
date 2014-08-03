@@ -4,12 +4,30 @@
     "day": "Thursday",
     "topic": "The Constitutional Right To Bear Arms Has Outlived Its Usefulness",
     "moderator": "John Donvan",
-    "pre-for": 64,
-    "pre-against": 18,
-    "pre-undecided": 18,
-    "post-for": 74,
-    "post-against": 22,
-    "post-undecided": 4,
+    "pre-debate": {
+        "for": 64,
+        "against": 18,
+        "undecided": 18
+    },
+    "post-debate": {
+        "for": 74,
+        "against": 22,
+        "undecided": 4
+    },
     "winner": "for",
-    "unchanged-vote": 71
+    "unchanged-vote": 71,
+    "unchanged": {
+        "for": 58,
+        "against": 12,
+        "undecided": 1
+    },
+    "changed-vote": 29,
+    "changed": {
+        "for-to-against": 4,
+        "for-to-undecided": 2,
+        "against-to-for": 5,
+        "against-to-undecided": 1,
+        "undecided-to-for": 11,
+        "undecided-to-against": 6
+    }
 }

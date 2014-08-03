@@ -4,12 +4,30 @@
     "day": "Wednesday",
     "topic": "Obamacare Is Now Beyond Rescue",
     "moderator": "John Donvan",
-    "pre-for": 16,
-    "pre-against": 53,
-    "pre-undecided": 31,
-    "post-for": 32,
-    "post-against": 59,
-    "post-undecided": 9,
+    "pre-debate": {
+        "for": 16,
+        "against": 53,
+        "undecided": 31
+    },
+    "post-debate": {
+        "for": 32,
+        "against": 59,
+        "undecided": 9
+    },
     "winner": "for",
-    "unchanged-vote": 57
+    "unchanged-vote": 57,
+    "unchanged": {
+        "for": 13,
+        "against": 40,
+        "undecided": 4
+    },
+    "changed-vote": 43,
+    "changed": {
+        "for-to-against": 2,
+        "for-to-undecided": 1,
+        "against-to-for": 9,
+        "against-to-undecided": 4,
+        "undecided-to-for": 11,
+        "undecided-to-against": 16
+    }
 }

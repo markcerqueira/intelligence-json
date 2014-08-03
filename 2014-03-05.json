@@ -4,12 +4,30 @@
     "day": "Wednesday",
     "topic": "The President Has Constitutional Power To Target And Kill U.S. Citizens Abroad",
     "moderator": "John Donvan",
-    "pre-for": 29,
-    "pre-against": 44,
-    "pre-undecided": 27,
-    "post-for": 54,
-    "post-against": 39,
-    "post-undecided": 7,
+    "pre-debate": {
+        "for": 29,
+        "against": 44,
+        "undecided": 27
+    },
+    "post-debate": {
+        "for": 54,
+        "against": 39,
+        "undecided": 7
+    },
     "winner": "for",
-    "unchanged-vote": 49
+    "unchanged-vote": 49,
+    "unchanged": {
+        "for": 21,
+        "against": 23,
+        "undecided": 5
+    },
+    "changed-vote": 51,
+    "changed": {
+        "for-to-against": 9,
+        "for-to-undecided": 0,
+        "against-to-for": 20,
+        "against-to-undecided": 2,
+        "undecided-to-for": 14,
+        "undecided-to-against": 7
+    }
 }

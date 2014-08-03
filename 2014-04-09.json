@@ -4,12 +4,30 @@
     "day": "Wednesday",
     "topic": "Millennials Don't Stand A Chance",
     "moderator": "John Donvan",
-    "pre-for": 18,
-    "pre-against": 47,
-    "pre-undecided": 35,
-    "post-for": 38,
-    "post-against": 52,
-    "post-undecided": 10,
+    "pre-debate": {
+        "for": 18,
+        "against": 47,
+        "undecided": 35
+    },
+    "post-debate": {
+        "for": 38,
+        "against": 52,
+        "undecided": 10
+    },
     "winner": "for",
-    "unchanged-vote": 48
+    "unchanged-vote": 48,
+    "unchanged": {
+        "for": 10,
+        "against": 29,
+        "undecided": 9
+    },
+    "changed-vote": 52,
+    "changed": {
+        "for-to-against": 5,
+        "for-to-undecided": 0,
+        "against-to-for": 11,
+        "against-to-undecided": 5,
+        "undecided-to-for": 16,
+        "undecided-to-against": 16
+    }
 }

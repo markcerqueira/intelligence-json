@@ -4,12 +4,30 @@
     "day": "Wednesday",
     "topic": "Cutting the Pentagon's Budget is a Gift To Our Enemies",
     "moderator": "John Donvan",
-    "pre-for": 22,
-    "pre-against": 57,
-    "pre-undecided": 21,
-    "post-for": 29,
-    "post-against": 65,
-    "post-undecided": 6,
+    "pre-debate": {
+        "for": 22,
+        "against": 57,
+        "undecided": 21
+    },
+    "post-debate": {
+        "for": 29,
+        "against": 65,
+        "undecided": 6
+    },
     "winner": "against",
-    "unchanged-vote": 64
+    "unchanged-vote": 64,
+    "unchanged": {
+        "for": 14,
+        "against": 48,
+        "undecided": 2
+    },
+    "changed-vote": 36,
+    "changed": {
+        "for-to-against": 5,
+        "for-to-undecided": 1,
+        "against-to-for": 8,
+        "against-to-undecided": 2,
+        "undecided-to-for": 7,
+        "undecided-to-against": 13
+    }
 }

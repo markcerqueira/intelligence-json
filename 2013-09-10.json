@@ -4,12 +4,30 @@
     "day": "Tuesday",
     "topic": "The U.S. Drone Program is Fatally Flawed",
     "moderator": "John Donvan",
-    "pre-for": 23,
-    "pre-against": 34,
-    "pre-undecided": 43,
-    "post-for": 23,
-    "post-against": 64,
-    "post-undecided": 13,
+    "pre-debate": {
+        "for": 23,
+        "against": 34,
+        "undecided": 43
+    },
+    "post-debate": {
+        "for": 23,
+        "against": 64,
+        "undecided": 13
+    },
     "winner": "against",
-    "unchanged-vote": 51
+    "unchanged-vote": 51,
+    "unchanged": {
+        "for": 10,
+        "against": 31,
+        "undecided": 9
+    },
+    "changed-vote": 49,
+    "changed": {
+        "for-to-against": 10,
+        "for-to-undecided": 4,
+        "against-to-for": 2,
+        "against-to-undecided": 1,
+        "undecided-to-for": 8,
+        "undecided-to-against": 24
+    }
 }

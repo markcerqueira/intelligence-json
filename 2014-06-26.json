@@ -4,12 +4,30 @@
     "day": "Thursday",
     "topic": "Individuals and organizations have a constitutional right to unlimited spending on their own political speech",
     "moderator": "John Donvan",
-    "pre-for": 33,
-    "pre-against": 49,
-    "pre-undecided": 18,
-    "post-for": 33,
-    "post-against": 65,
-    "post-undecided": 2,
+    "pre-debate": {
+        "for": 33,
+        "against": 49,
+        "undecided": 18
+    },
+    "post-debate": {
+        "for": 33,
+        "against": 65,
+        "undecided": 2
+    },
     "winner": "against",
-    "unchanged-vote": 64
+    "unchanged-vote": 64,
+    "unchanged": {
+        "for": 21,
+        "against": 41,
+        "undecided": 2
+    },
+    "changed-vote": 36,
+    "changed": {
+        "for-to-against": 13,
+        "for-to-undecided": 0,
+        "against-to-for": 7,
+        "against-to-undecided": 1,
+        "undecided-to-for": 3,
+        "undecided-to-against": 13
+    }
 }

@@ -4,12 +4,30 @@
     "day": "Wednesday",
     "topic": "Let Anyone Take A Job Anywhere",
     "moderator": "John Donvan",
-    "pre-for": 46,
-    "pre-against": 21,
-    "pre-undecided": 33,
-    "post-for": 42,
-    "post-against": 49,
-    "post-undecided": 9,
+    "pre-debate": {
+        "for": 46,
+        "against": 21,
+        "undecided": 33
+    },
+    "post-debate": {
+        "for": 42,
+        "against": 49,
+        "undecided": 9
+    },
     "winner": "against",
-    "unchanged-vote": 49
+    "unchanged-vote": 49,
+    "unchanged": {
+        "for": 28,
+        "against": 16,
+        "undecided": 5
+    },
+    "changed-vote": 51,
+    "changed": {
+        "for-to-against": 15,
+        "for-to-undecided": 3,
+        "against-to-for": 4,
+        "against-to-undecided": 1,
+        "undecided-to-for": 11,
+        "undecided-to-against": 18
+    }
 }

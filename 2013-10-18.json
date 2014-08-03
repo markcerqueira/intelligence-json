@@ -4,12 +4,30 @@
     "day": "Friday",
     "topic": "For A Better Future, Live In A Red State",
     "moderator": "John Donvan",
-    "pre-for": 54,
-    "pre-against": 24,
-    "pre-undecided": 22,
-    "post-for": 73,
-    "post-against": 23,
-    "post-undecided": 4,
+    "pre-debate": {
+        "for": 54,
+        "against": 24,
+        "undecided": 22
+    },
+    "post-debate": {
+        "for": 73,
+        "against": 23,
+        "undecided": 4
+    },
     "winner": "for",
-    "unchanged-vote": 68
+    "unchanged-vote": 68,
+    "unchanged": {
+        "for": 52,
+        "against": 14,
+        "undecided": 3
+    },
+    "changed-vote": 32,
+    "changed": {
+        "for-to-against": 3,
+        "for-to-undecided": 0,
+        "against-to-for": 9,
+        "against-to-undecided": 1,
+        "undecided-to-for": 13,
+        "undecided-to-against": 6
+    }
 }

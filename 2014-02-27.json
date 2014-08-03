@@ -4,12 +4,30 @@
     "day": "Thursday",
     "topic": "Affirmative Action On Campus Does More Harm Than Good",
     "moderator": "John Donvan",
-    "pre-for": 22,
-    "pre-against": 48,
-    "pre-undecided": 30,
-    "post-for": 36,
-    "post-against": 55,
-    "post-undecided": 9,
+    "pre-debate": {
+        "for": 22,
+        "against": 48,
+        "undecided": 30
+    },
+    "post-debate": {
+        "for": 36,
+        "against": 55,
+        "undecided": 9
+    },
     "winner": "for",
-    "unchanged-vote": 61
+    "unchanged-vote": 61,
+    "unchanged": {
+        "for": 16,
+        "against": 38,
+        "undecided": 6
+    },
+    "changed-vote": 39,
+    "changed": {
+        "for-to-against": 5,
+        "for-to-undecided": 1,
+        "against-to-for": 7,
+        "against-to-undecided": 3,
+        "undecided-to-for": 14,
+        "undecided-to-against": 10
+    }
 }

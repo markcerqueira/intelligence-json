@@ -4,12 +4,30 @@
     "day": "Wednesday",
     "topic": "Spy On Me, I'd Rather Be Safe",
     "moderator": "John Donvan",
-    "pre-for": 26,
-    "pre-against": 41,
-    "pre-undecided": 33,
-    "post-for": 29,
-    "post-against": 62,
-    "post-undecided": 9,
+    "pre-debate": {
+        "for": 26,
+        "against": 41,
+        "undecided": 33
+    },
+    "post-debate": {
+        "for": 29,
+        "against": 62,
+        "undecided": 9
+    },
     "winner": "against",
-    "unchanged-vote": 59
+    "unchanged-vote": 59,
+    "unchanged": {
+        "for": 16,
+        "against": 38,
+        "undecided": 5
+    },
+    "changed-vote": 41,
+    "changed": {
+        "for-to-against": 7,
+        "for-to-undecided": 3,
+        "against-to-for": 2,
+        "against-to-undecided": 1,
+        "undecided-to-for": 10,
+        "undecided-to-against": 18
+    }
 }

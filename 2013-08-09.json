@@ -4,12 +4,30 @@
     "day": "Friday",
     "topic": "The U.S. Has No Dog In The Fight In Syria",
     "moderator": "John Donvan",
-    "pre-for": 40,
-    "pre-against": 28,
-    "pre-undecided": 32,
-    "post-for": 61,
-    "post-against": 33,
-    "post-undecided": 6,
+    "pre-debate": {
+        "for": 40,
+        "against": 28,
+        "undecided": 32
+    },
+    "post-debate": {
+        "for": 61,
+        "against": 33,
+        "undecided": 6
+    },
     "winner": "for",
-    "unchanged-vote": 59
+    "unchanged-vote": 59,
+    "unchanged": {
+        "for": 36,
+        "against": 19,
+        "undecided": 5
+    },
+    "changed-vote": 41,
+    "changed": {
+        "for-to-against": 4,
+        "for-to-undecided": 1,
+        "against-to-for": 9,
+        "against-to-undecided": 1,
+        "undecided-to-for": 15,
+        "undecided-to-against": 11
+    }
 }

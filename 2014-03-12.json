@@ -4,12 +4,30 @@
     "day": "Wednesday",
     "topic": "Russia Is A Marginal Power",
     "moderator": "John Donvan",
-    "pre-for": 25,
-    "pre-against": 43,
-    "pre-undecided": 32,
-    "post-for": 35,
-    "post-against": 58,
-    "post-undecided": 7,
+    "pre-debate": {
+        "for": 25,
+        "against": 43,
+        "undecided": 32
+    },
+    "post-debate": {
+        "for": 35,
+        "against": 58,
+        "undecided": 7
+    },
     "winner": "against",
-    "unchanged-vote": 49
+    "unchanged-vote": 49,
+    "unchanged": {
+        "for": 14,
+        "against": 32,
+        "undecided": 4
+    },
+    "changed-vote": 51,
+    "changed": {
+        "for-to-against": 9,
+        "for-to-undecided": 1,
+        "against-to-for": 9,
+        "against-to-undecided": 3,
+        "undecided-to-for": 12,
+        "undecided-to-against": 17
+    }
 }

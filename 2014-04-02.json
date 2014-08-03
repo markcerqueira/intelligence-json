@@ -4,12 +4,30 @@
     "day": "Wednesday",
     "topic": "More Clicks, Fewer Bricks: The Lecture Hall Is Obsolete",
     "moderator": "John Donvan",
-    "pre-for": 18,
-    "pre-against": 59,
-    "pre-undecided": 23,
-    "post-for": 44,
-    "post-against": 47,
-    "post-undecided": 9,
+    "pre-debate": {
+        "for": 18,
+        "against": 59,
+        "undecided": 23
+    },
+    "post-debate": {
+        "for": 44,
+        "against": 47,
+        "undecided": 9
+    },
     "winner": "for",
-    "unchanged-vote": 54
+    "unchanged-vote": 54,
+    "unchanged": {
+        "for": 12,
+        "against": 39,
+        "undecided": 3
+    },
+    "changed-vote": 46,
+    "changed": {
+        "for-to-against": 7,
+        "for-to-undecided": 1,
+        "against-to-for": 14,
+        "against-to-undecided": 6,
+        "undecided-to-for": 13,
+        "undecided-to-against": 5
+    }
 }
