@@ -4,5 +4,12 @@
     "day": "Wednesday",
     "topic": "Death Is Not Final",
     "moderator": "John Donvan",
-    "winner": "against"
+    "pre-for": 37,
+    "pre-against": 31,
+    "pre-undecided": 32,
+    "post-for": 42,
+    "post-against": 46,
+    "post-undecided": 12,
+    "winner": "against",
+    "unchanged-vote": -100
 }
