@@ -1,0 +1,19 @@
+{
+    "url": "http://intelligencesquaredus.org/debates/past-debates/item/608-bush-43-is-the-worst-president-of-the-last-50-years",
+    "image-url": "http://intelligencesquaredus.org/images/debates/past/Bush43.jpg",
+    "date": "2008-12-02",
+    "day": "Tuesday",
+    "topic": "Bush 43 is the Worst President of the Last 50 Years",
+    "moderator": "John Donvan",
+    "pre-debate": {
+        "for": 65,
+        "against": 17,
+        "undecided": 18
+    },
+    "post-debate": {
+        "for": 68,
+        "against": 27,
+        "undecided": 5
+    },
+    "winner": "against"
+}
