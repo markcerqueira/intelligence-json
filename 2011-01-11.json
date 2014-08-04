@@ -1,0 +1,19 @@
+{
+    "url": "http://intelligencesquaredus.org/debates/past-debates/item/562-repeal-obamacare",
+    "image-url": "http://intelligencesquaredus.org/images/debates/past/obamacare.jpg",
+    "date": "2011-01-11",
+    "day": "Tuesday",
+    "topic": "Repeal Obamacare",
+    "moderator": "John Donvan",
+    "pre-debate": {
+        "for": 17,
+        "against": 47,
+        "undecided": 36
+    },
+    "post-debate": {
+        "for": 22,
+        "against": 72,
+        "undecided": 6
+    },
+    "winner": "against"
+}
