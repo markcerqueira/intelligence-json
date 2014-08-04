@@ -1,0 +1,19 @@
+{
+    "url": "http://intelligencesquaredus.org/debates/past-debates/item/589-ban-college-football",
+    "image-url": "http://intelligencesquaredus.org/images/debates/past/college-football.jpg",
+    "date": "2012-05-18",
+    "day": "Tuesday",
+    "topic": "Ban College Football",
+    "moderator": "John Donvan",
+    "pre-debate": {
+        "for": 16,
+        "against": 53,
+        "undecided": 31
+    },
+    "post-debate": {
+        "for": 53,
+        "against": 39,
+        "undecided": 8
+    },
+    "winner": "for"
+}
