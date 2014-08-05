@@ -4,7 +4,7 @@
     "date": "2006-10-16",
     "day": "Tuesday",
     "topic": "Freedom of Expression Must Include the License to Offend",
-	"moderator": "Jeffrey Toobin",
+    "moderator": "Jeffrey Toobin",
     "pre-debate": {
         "for": 78,
         "against": 11,
@@ -15,5 +15,6 @@
         "against": 16,
         "undecided": 1
     },
-    "winner": "for"
+    "winner": "for",
+    "note": "Based on percentage, it's a tie, but in the video the for team is declared the winner."
 }

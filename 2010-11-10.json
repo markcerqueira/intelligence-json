@@ -15,5 +15,6 @@
         "against": 36,
         "undecided": 13
     },
-    "winner": "for"
+    "winner": "against",
+    "note": "The website incorrectly lists the winning side as the for team."
 }

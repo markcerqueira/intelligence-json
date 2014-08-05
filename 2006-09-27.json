@@ -4,7 +4,7 @@
     "date": "2006-09-27",
     "day": "Wednesday",
     "topic": "We Must Tolerate a Nuclear Iran",
-	"moderator": "John Gordon",
+    "moderator": "John Gordon",
     "pre-debate": {
         "for": 26,
         "against": 47,
@@ -15,5 +15,6 @@
         "against": 53,
         "undecided": 10
     },
-    "winner": "against"
+    "winner": "for",
+    "note": "The website incorrectly lists the winning side as the against team."
 }
