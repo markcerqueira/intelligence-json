@@ -15,5 +15,6 @@
         "against": 51,
         "undecided": 8
     },
-    "winner": "against"
+    "winner": "against",
+    "note": "Based on percentage, it's a tie, but in the video the against team is declared the winner."
 }
